@@ -1,0 +1,2 @@
+# myapp
+ko co gi
